@@ -1,0 +1,62 @@
+*{
+   padding:0;
+   margin:0;
+   box-sizing:border-box;
+}
+
+.navbar {
+ background-color: #76D275;
+}
+
+/* Navbar text color */
+.navbar-nav .nav-link {
+ color: #1e1919;
+}
+
+/* Navbar text on hover color */
+.navbar-nav .nav-link:hover {
+ color: #fff;
+}
+
+/* Navbar toggle button color */
+.navbar-toggler-icon {
+ background-color: #fff;
+}
+
+/* Search button text color */
+.btn-outline-success {
+ color: #0c0f0c;
+}
+
+/* Search button border color */
+.btn-outline-success {
+ border-color: #131413;
+}
+
+/* Search button hover background color */
+.btn-outline-success:hover {
+ background-color: #0e100e;
+ color: #fff;
+}
+
+/* Search input text color */
+.form-control {
+ color: #333; /* Change to desired text color */
+}
+
+
+.card-img-top{
+   width:100%;
+   height:300px;
+   object-fit: contain;
+}
+
+.admin-image{
+  width:100%;
+  object-fit: contain;
+}
+
+.cart_img{
+   width:50px ;
+   height:50px;
+}
